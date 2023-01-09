@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Applications.<br>👯 I’m looking to collaborate on React projects.<br>🌱 I’m currently learning java and AWS amplify systems.<br>💬 Ask me about my previous projects.<br>⚡ Occasionally produce electronic music.
+🔭 I’m currently working on incorporating three.js into web design.<br>👯 I’m looking to collaborate on React projects.<br>🌱 I’m currently learning serverless architecture, javascript, React, three.js.<br>💬 Ask me about my previous projects.<br>⚡ Occasionally produce electronic music.
 
 
 ## 🌐 Socials:
