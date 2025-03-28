@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on incorporating three.js into web design.<br>👯 I’m looking to collaborate on React projects.<br>🌱 I’m currently learning serverless architecture, javascript, React, three.js.<br>💬 Ask me about my previous projects.<br>⚡ Occasionally produce electronic music.
+🔭 I’m currently working on android applications using jetpack compose.<br>I’m currently learning kotlin, serverless architecture, jetpack compose, and material 3 design best practices.<br>💬 Ask me about my previous projects.<br>
 
 
 ## 🌐 Socials:
